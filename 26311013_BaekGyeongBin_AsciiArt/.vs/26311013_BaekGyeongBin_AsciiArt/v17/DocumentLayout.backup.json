@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\26311013_BaekGyeongBin\\26311013_BaekGyeongBin_AsciiArt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28C00DFF-124F-483B-B269-6048BC2EFE26}|26311013_BaekGyeongBin_AsciiArt.vcxproj|D:\\26311013_BaekGyeongBin\\26311013_BaekGyeongBin_AsciiArt\\26311013_BaekGyeongBin_AsciiArt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28C00DFF-124F-483B-B269-6048BC2EFE26}|26311013_BaekGyeongBin_AsciiArt.vcxproj|solutionrelative:26311013_BaekGyeongBin_AsciiArt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "26311013_BaekGyeongBin_AsciiArt.cpp",
+              "DocumentMoniker": "D:\\26311013_BaekGyeongBin\\26311013_BaekGyeongBin_AsciiArt\\26311013_BaekGyeongBin_AsciiArt.cpp",
+              "RelativeDocumentMoniker": "26311013_BaekGyeongBin_AsciiArt.cpp",
+              "ToolTip": "D:\\26311013_BaekGyeongBin\\26311013_BaekGyeongBin_AsciiArt\\26311013_BaekGyeongBin_AsciiArt.cpp*",
+              "RelativeToolTip": "26311013_BaekGyeongBin_AsciiArt.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-19T02:38:39.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
