@@ -1,0 +1,22 @@
+﻿  RpgCharacter.c
+D:\26311013_BaekGyeongBin\26311013_BaekGyeongBin_RpgCharacter\RpgCharacter.c(8,18): warning C4013: 'GetRandom'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\26311013_BaekGyeongBin\26311013_BaekGyeongBin_RpgCharacter\RpgCharacter.c(20,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+D:\26311013_BaekGyeongBin\26311013_BaekGyeongBin_RpgCharacter\RpgCharacter.c(20,9): warning C4313: 'printf': 서식 문자열의 '%s'이(가) int' 형식의 인수 1과(와) 충돌합니다.
+D:\26311013_BaekGyeongBin\26311013_BaekGyeongBin_RpgCharacter\RpgCharacter.c(21,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+D:\26311013_BaekGyeongBin\26311013_BaekGyeongBin_RpgCharacter\RpgCharacter.c(21,9): warning C4313: 'printf': 서식 문자열의 '%s'이(가) int' 형식의 인수 1과(와) 충돌합니다.
+D:\26311013_BaekGyeongBin\26311013_BaekGyeongBin_RpgCharacter\RpgCharacter.c(22,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+D:\26311013_BaekGyeongBin\26311013_BaekGyeongBin_RpgCharacter\RpgCharacter.c(22,9): warning C4313: 'printf': 서식 문자열의 '%s'이(가) int' 형식의 인수 1과(와) 충돌합니다.
+D:\26311013_BaekGyeongBin\26311013_BaekGyeongBin_RpgCharacter\RpgCharacter.c(28,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+D:\26311013_BaekGyeongBin\26311013_BaekGyeongBin_RpgCharacter\RpgCharacter.c(28,9): warning C4313: 'printf': 서식 문자열의 '%s'이(가) int' 형식의 인수 1과(와) 충돌합니다.
+D:\26311013_BaekGyeongBin\26311013_BaekGyeongBin_RpgCharacter\RpgCharacter.c(29,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+D:\26311013_BaekGyeongBin\26311013_BaekGyeongBin_RpgCharacter\RpgCharacter.c(29,9): warning C4313: 'printf': 서식 문자열의 '%s'이(가) int' 형식의 인수 1과(와) 충돌합니다.
+D:\26311013_BaekGyeongBin\26311013_BaekGyeongBin_RpgCharacter\RpgCharacter.c(33,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+D:\26311013_BaekGyeongBin\26311013_BaekGyeongBin_RpgCharacter\RpgCharacter.c(33,9): warning C4313: 'printf': 서식 문자열의 '%s'이(가) int' 형식의 인수 1과(와) 충돌합니다.
+D:\26311013_BaekGyeongBin\26311013_BaekGyeongBin_RpgCharacter\RpgCharacter.c(80,2): warning C4098: 'Status': 'void' 함수에서 값을 반환하고 있습니다.
+D:\26311013_BaekGyeongBin\26311013_BaekGyeongBin_RpgCharacter\RpgCharacter.c(47,1): warning C4716: 'IndexName': 값을 반환해야 합니다.
+D:\26311013_BaekGyeongBin\26311013_BaekGyeongBin_RpgCharacter\RpgCharacter.c(52,1): warning C4716: 'IndexJob': 값을 반환해야 합니다.
+D:\26311013_BaekGyeongBin\26311013_BaekGyeongBin_RpgCharacter\RpgCharacter.c(57,1): warning C4716: 'IndexRarity': 값을 반환해야 합니다.
+D:\26311013_BaekGyeongBin\26311013_BaekGyeongBin_RpgCharacter\RpgCharacter.c(67,1): warning C4716: 'IndexArmor': 값을 반환해야 합니다.
+D:\26311013_BaekGyeongBin\26311013_BaekGyeongBin_RpgCharacter\RpgCharacter.c(62,1): warning C4716: 'IndexWeapon': 값을 반환해야 합니다.
+D:\26311013_BaekGyeongBin\26311013_BaekGyeongBin_RpgCharacter\RpgCharacter.c(72,1): warning C4716: 'IndexMob': 값을 반환해야 합니다.
+  26311013_BaekGyeongBin_RpgCharacter.vcxproj -> D:\26311013_BaekGyeongBin\26311013_BaekGyeongBin_RpgCharacter\x64\Debug\26311013_BaekGyeongBin_RpgCharacter.exe
