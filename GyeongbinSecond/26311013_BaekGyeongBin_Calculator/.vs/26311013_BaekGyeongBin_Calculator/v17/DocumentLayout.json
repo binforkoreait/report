@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\26311013_BaekGyeongBin\\26311013_BaekGyeongBin_Calculator\\",
+  "WorkspaceRootPath": "C:\\Users\\rudql\\OneDrive\\\u6587\u6863\\GitHub\\report\\GyeongbinSecond\\26311013_BaekGyeongBin_Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{161E0775-D4B0-4AFF-8C67-6B7D150407D3}|26311013_BaekGyeongBin_Calculator.vcxproj|D:\\26311013_BaekGyeongBin\\26311013_BaekGyeongBin_Calculator\\Calculater.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{161E0775-D4B0-4AFF-8C67-6B7D150407D3}|26311013_BaekGyeongBin_Calculator.vcxproj|C:\\Users\\rudql\\OneDrive\\\u6587\u6863\\GitHub\\report\\GyeongbinSecond\\26311013_BaekGyeongBin_Calculator\\Calculater.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{161E0775-D4B0-4AFF-8C67-6B7D150407D3}|26311013_BaekGyeongBin_Calculator.vcxproj|solutionrelative:Calculater.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Calculater.c",
-              "DocumentMoniker": "D:\\26311013_BaekGyeongBin\\26311013_BaekGyeongBin_Calculator\\Calculater.c",
+              "DocumentMoniker": "C:\\Users\\rudql\\OneDrive\\\u6587\u6863\\GitHub\\report\\GyeongbinSecond\\26311013_BaekGyeongBin_Calculator\\Calculater.c",
               "RelativeDocumentMoniker": "Calculater.c",
-              "ToolTip": "D:\\26311013_BaekGyeongBin\\26311013_BaekGyeongBin_Calculator\\Calculater.c",
+              "ToolTip": "C:\\Users\\rudql\\OneDrive\\\u6587\u6863\\GitHub\\report\\GyeongbinSecond\\26311013_BaekGyeongBin_Calculator\\Calculater.c",
               "RelativeToolTip": "Calculater.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-26T01:25:11.679Z",
               "EditorCaption": ""

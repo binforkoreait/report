@@ -3,10 +3,87 @@
 #include <time.h>
 #include <string.h>
 
+
+int GetRandom(int minVal, int maxVal)
+{
+	return minVal + rand() % (maxVal - minVal + 1);
+}
+
+char* GetName(int index)
+{
+    switch (index)
+    {
+    case 1: return "Arthur";
+    case 2: return "Luna";
+    case 3: return "Kai";
+    case 4: return "Iris";
+    case 5: return "Dante";
+    }
+    return "Unknown";
+}
+
+char* GetJob(int index)
+{
+    switch (index)
+    {
+    case 1: return "전사";
+    case 2: return "궁수";
+    case 3: return "마법사";
+    case 4: return "도적";
+    }
+    return "Unknown";
+}
+
+char* GetRarity(int value)
+{
+    if (value <= 4) 
+        return "영웅";
+    else if (value <= 29) 
+        return "희귀";
+    else 
+        return "일반";
+}
+
+char* GetWeapon(int value)
+{
+    if (value == 0) 
+        return "전설 무기";
+    else if (value <= 9) 
+        return "영웅 무기";
+    else if (value <= 29) 
+        return "희귀 무기";
+    else 
+        return "일반 무기";
+}
+
+char* GetArmor(int value)
+{
+    if (value <= 4)
+        return "전설 갑옷";
+    else if (value <= 19) 
+        return "영웅 갑옷";
+    else 
+        return "일반 갑옷";
+}
+
+char* GetMonster(int value)
+{
+    if (value <= 29) 
+        return "슬라임";
+    else if (value <= 59) 
+        return "고블린";
+    else if (value <= 89) 
+        return "오크";
+    else 
+        return "드래곤";
+}
+
 int main(void)
 {
-	int indexName = GetRandom(1, 4);	 // 1: Arthur, 2: Luna, 3: Kai, 4: Iris, 5: Dante
-	int indexJob = GetRandom(1, 3);     // 1: 전사, 2: 궁수, 3: 마법사, 4: 도적
+    srand(time(NULL));
+
+	int indexName = GetRandom(1, 5);	 // 1: Arthur, 2: Luna, 3: Kai, 4: Iris, 5: Dante
+	int indexJob = GetRandom(1, 4);     // 1: 전사, 2: 궁수, 3: 마법사, 4: 도적
 	int indexRarity = GetRandom(0, 100);    // 0~4: 영웅, 5~29: 희귀, 30~100: 일반
 	int indexWeapon = GetRandom(0, 100);    // 0: 전설 무기, 1~9: 영웅 무기, 10~29: 희귀 무기, 30~100: 일반 무기
 	int indexArmor = GetRandom(0, 100);    // 0~4: 전설 갑옷, 5~19: 영웅 갑옷, 20~100: 일반 갑옷
@@ -15,30 +92,26 @@ int main(void)
 	int atk = GetRandom(10, 25);
 	int def = GetRandom(10, 20);
 	int hp = GetRandom(80, 100);
+    int cp = GetRandom(100, 200);
 
 	printf("===== 캐릭터 정보 =====\n\n");
-	printf("이름 : %s\n",indexName);
-	printf("직업 : %s\n",indexJob);
-	printf("등급 : %s\n\n",indexRarity);
+	printf("이름 : %s\n",GetName(indexName));
+	printf("직업 : %s\n",GetJob(indexJob));
+	printf("등급 : %s\n\n",GetRarity(indexRarity));
 	printf("능력치\n");
 	printf("  공격력 : %d\n",atk);
 	printf("  방어력 : %d\n",def);
 	printf("  체력 : %d\n\n",hp);
 	printf("장비\n");
-	printf("  무기 : %s\n",indexWeapon);
-	printf("  방어구 : %s\n\n", indexArmor);
-	printf("전투력 : \n");
+	printf("  무기 : %s\n",GetWeapon(indexWeapon));
+	printf("  방어구 : %s\n\n", GetArmor(indexArmor));
+	printf("전투력 : %d\n", cp);
 	printf("칭호 : 강력한 전사\n\n");
 	printf("===== 몬스터 등장 =====\n");
-	printf("출현 몬스터 : %s\n", indexMob);
+	printf("출현 몬스터 : %s\n", GetMonster(indexMob));
 
 
 	return 0;
-}
-
-int GetRandom(int minVal, int maxVal)
-{
-	return minVal + rand() % (maxVal - minVal + 1);
 }
 
 const char * IndexName()

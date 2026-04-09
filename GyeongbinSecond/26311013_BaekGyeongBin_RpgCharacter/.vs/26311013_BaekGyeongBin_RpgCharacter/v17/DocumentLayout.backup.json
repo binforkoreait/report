@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\26311013_BaekGyeongBin\\26311013_BaekGyeongBin_RpgCharacter\\",
+  "WorkspaceRootPath": "C:\\Users\\rudql\\OneDrive\\\u6587\u6863\\GitHub\\report\\GyeongbinSecond\\26311013_BaekGyeongBin_RpgCharacter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8364D002-AC4F-4F10-B91A-C1DBEFD7DF8D}|26311013_BaekGyeongBin_RpgCharacter.vcxproj|D:\\26311013_BaekGyeongBin\\26311013_BaekGyeongBin_RpgCharacter\\RpgCharacter.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8364D002-AC4F-4F10-B91A-C1DBEFD7DF8D}|26311013_BaekGyeongBin_RpgCharacter.vcxproj|C:\\Users\\rudql\\OneDrive\\\u6587\u6863\\GitHub\\report\\GyeongbinSecond\\26311013_BaekGyeongBin_RpgCharacter\\RpgCharacter.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8364D002-AC4F-4F10-B91A-C1DBEFD7DF8D}|26311013_BaekGyeongBin_RpgCharacter.vcxproj|solutionrelative:RpgCharacter.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "RpgCharacter.c",
-              "DocumentMoniker": "D:\\26311013_BaekGyeongBin\\26311013_BaekGyeongBin_RpgCharacter\\RpgCharacter.c",
+              "DocumentMoniker": "C:\\Users\\rudql\\OneDrive\\\u6587\u6863\\GitHub\\report\\GyeongbinSecond\\26311013_BaekGyeongBin_RpgCharacter\\RpgCharacter.c",
               "RelativeDocumentMoniker": "RpgCharacter.c",
-              "ToolTip": "D:\\26311013_BaekGyeongBin\\26311013_BaekGyeongBin_RpgCharacter\\RpgCharacter.c",
+              "ToolTip": "C:\\Users\\rudql\\OneDrive\\\u6587\u6863\\GitHub\\report\\GyeongbinSecond\\26311013_BaekGyeongBin_RpgCharacter\\RpgCharacter.c",
               "RelativeToolTip": "RpgCharacter.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-26T02:54:48.691Z",
               "EditorCaption": ""
