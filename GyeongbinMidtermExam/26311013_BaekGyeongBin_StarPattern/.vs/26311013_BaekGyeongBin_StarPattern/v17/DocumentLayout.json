@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\26311013_BaekGyeongBin\\26311013_BaekGyeongBin_StarPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90BB030F-5D96-4E1D-AA55-E6F8C4A705CF}|26311013_BaekGyeongBin_StarPattern.vcxproj|D:\\26311013_BaekGyeongBin\\26311013_BaekGyeongBin_StarPattern\\StarPattern.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90BB030F-5D96-4E1D-AA55-E6F8C4A705CF}|26311013_BaekGyeongBin_StarPattern.vcxproj|solutionrelative:StarPattern.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StarPattern.c",
+              "DocumentMoniker": "D:\\26311013_BaekGyeongBin\\26311013_BaekGyeongBin_StarPattern\\StarPattern.c",
+              "RelativeDocumentMoniker": "StarPattern.c",
+              "ToolTip": "D:\\26311013_BaekGyeongBin\\26311013_BaekGyeongBin_StarPattern\\StarPattern.c",
+              "RelativeToolTip": "StarPattern.c",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-09T01:30:15.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
