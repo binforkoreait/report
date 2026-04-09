@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\26311013_BaekGyeongBin\\26311013_BaekGyeongBinNumberPyramid\\",
+  "WorkspaceRootPath": "C:\\Users\\KOREAIT\\Documents\\GitHub\\report\\GyeongbinMidtermExam\\26311013_BaekGyeongBinNumberPyramid\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5492A640-9139-489D-B5FB-2C612C328EEC}|26311013_BaekGyeongBinNumberPyramid.vcxproj|D:\\26311013_BaekGyeongBin\\26311013_BaekGyeongBinNumberPyramid\\NumberPyramid.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5492A640-9139-489D-B5FB-2C612C328EEC}|26311013_BaekGyeongBinNumberPyramid.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\report\\GyeongbinMidtermExam\\26311013_BaekGyeongBinNumberPyramid\\NumberPyramid.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5492A640-9139-489D-B5FB-2C612C328EEC}|26311013_BaekGyeongBinNumberPyramid.vcxproj|solutionrelative:NumberPyramid.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "NumberPyramid.c",
-              "DocumentMoniker": "D:\\26311013_BaekGyeongBin\\26311013_BaekGyeongBinNumberPyramid\\NumberPyramid.c",
+              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\report\\GyeongbinMidtermExam\\26311013_BaekGyeongBinNumberPyramid\\NumberPyramid.c",
               "RelativeDocumentMoniker": "NumberPyramid.c",
-              "ToolTip": "D:\\26311013_BaekGyeongBin\\26311013_BaekGyeongBinNumberPyramid\\NumberPyramid.c",
+              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\report\\GyeongbinMidtermExam\\26311013_BaekGyeongBinNumberPyramid\\NumberPyramid.c",
               "RelativeToolTip": "NumberPyramid.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-04-09T03:11:40.555Z",
               "EditorCaption": ""
