@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rudql\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\26311013_BaekGyeongBin_Updown\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DC16E2-F14C-44B4-9FF1-7A487E68EA9D}|26311013_BaekGyeongBin_Updown.vcxproj|C:\\Users\\rudql\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\26311013_BaekGyeongBin_Updown\\Updown.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7DC16E2-F14C-44B4-9FF1-7A487E68EA9D}|26311013_BaekGyeongBin_Updown.vcxproj|solutionrelative:Updown.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Updown.c",
+              "DocumentMoniker": "C:\\Users\\rudql\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\26311013_BaekGyeongBin_Updown\\Updown.c",
+              "RelativeDocumentMoniker": "Updown.c",
+              "ToolTip": "C:\\Users\\rudql\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\26311013_BaekGyeongBin_Updown\\Updown.c",
+              "RelativeToolTip": "Updown.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-13T16:06:18.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
